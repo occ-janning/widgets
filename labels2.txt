@@ -1,1 +1,32 @@
-["March", "April", "May", "June", "July", "August"]  
+[
+  {
+    "label": 2018,
+    "labels": "March",
+    "value": 75
+  },
+  {
+    "label": 2018,
+    "labels": "April",
+    "value": 95
+  },
+  {
+    "label": 2018,
+    "labels": "May",
+    "value": 88
+  },
+  {
+    "label": 2018,
+    "labels": "June",
+    "value": 71
+  },  
+  {
+    "label": 2018,
+    "labels": "July",
+    "value": 110
+  },
+  {
+    "label": 2018,
+    "labels": "August",
+    "value": 91
+  }
+]
