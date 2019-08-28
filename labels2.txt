@@ -1,32 +1,32 @@
 [
   {
     "label": 2018,
-    "labels": "March",
-    "value": 75
+    "x": "March",
+    "y": 75
   },
   {
     "label": 2018,
-    "labels": "April",
-    "value": 95
+    "x": "April",
+    "y": 95
   },
   {
     "label": 2018,
-    "labels": "May",
-    "value": 88
+    "x": "May",
+    "y": 88
   },
   {
     "label": 2018,
-    "labels": "June",
-    "value": 71
+    "x": "June",
+    "y": 71
   },  
   {
     "label": 2018,
-    "labels": "July",
-    "value": 110
+    "x": "July",
+    "y": 110
   },
   {
     "label": 2018,
-    "labels": "August",
-    "value": 91
+    "x": "August",
+    "y": 91
   }
 ]
