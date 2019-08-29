@@ -1,20 +1,20 @@
 {
-    {"label":2018,
-    "values":[
-        { "x":"March", "y":74 },
-        { "x":"April", "y":88 },
-        { "x":"May", "y":91 },
-        { "x":"June", "y":74 },
-        { "x":"July", "y":88 },
-        { "x":"August", "y":91 }      
-    ]},
-    {"label":2019,
-        "values":[
-        { "x":"March", "y":79 },
-        { "x":"April", "y":81 },
-        { "x":"May", "y":99 },
-        { "x":"June", "y":69 },
-        { "x":"July", "y":81 },
-        { "x":"August", "y":103 }      
-    ]}
+    "2018" : {
+    "values":{
+        "March":74,
+        "April":88,
+        "May":91,
+        "June":74,
+        "July":88,
+        "August":91      
+    }},
+    "2019" : {
+     "values":{
+        "March":79,
+        "April":81,
+        "May":99,
+        "June":69,
+        "July":81,
+        "August":103       
+    }}
 }
