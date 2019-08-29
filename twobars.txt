@@ -1,20 +1,26 @@
-{
-    "2018" : {
-    "values":{
-        "March":74,
-        "April":88,
-        "May":91,
-        "June":74,
-        "July":88,
-        "August":91      
-    }},
-    "2019" : {
-     "values":{
-        "March":79,
-        "April":81,
-        "May":99,
-        "June":69,
-        "July":81,
-        "August":103       
-    }}
-}
+[
+        {
+		"label": 2018,
+		"values":
+			[
+				{ "March": 77},
+				{ "April": 88},
+				{ "May": 99},
+				{ "June": 66},
+				{ "July": 55},
+				{ "August": 38}
+			]
+	},
+	{
+		"label": 2019,
+		"values":
+			[
+				{ "March": 66},
+				{ "April": 93},
+				{ "May": 81},
+				{ "June": 101},
+				{ "July": 88},
+				{ "August": 45}
+			]
+	}
+]
