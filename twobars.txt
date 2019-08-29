@@ -4,23 +4,23 @@
 		"values":
 			[
 				{ "x":"March", "y": 77},
-				{ "April": 88},
-				{ "May": 99},
-				{ "June": 66},
-				{ "July": 55},
-				{ "August": 38}
+				{ "x":"April": "y": 88},
+				{ "x":"May": "y":99},
+				{ "x":"June": "y":66},
+				{ "x":"July": "y":55},
+				{ "x":"August": "y":38}
 			]
 	},
 	{
 		"label": 2019,
 		"values":
 			[
-				{ "March": 66},
-				{ "April": 93},
-				{ "May": 81},
-				{ "June": 101},
-				{ "July": 88},
-				{ "August": 45}
+				{ "x":"March": "y":66},
+				{ "x":"April": "y":93},
+				{ "x":"May": "y":81},
+				{ "x":"June": "y":101},
+				{ "x":"July": "y":88},
+				{ "x":"August": "y":45}
 			]
 	}
 ]
