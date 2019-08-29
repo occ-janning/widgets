@@ -1,31 +1,25 @@
 [
   {
-    "label": 2018,
     "x": "March",
     "y": 75
   },
   {
-    "label": 2018,
     "x": "April",
     "y": 95
   },
   {
-    "label": 2018,
     "x": "May",
     "y": 88
   },
   {
-    "label": 2018,
     "x": "June",
     "y": 71
   },  
   {
-    "label": 2018,
     "x": "July",
     "y": 110
   },
   {
-    "label": 2018,
     "x": "August",
     "y": 91
   }
