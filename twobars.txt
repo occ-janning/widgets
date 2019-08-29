@@ -3,7 +3,7 @@
 		"label": 2018,
 		"values":
 			[
-				{ "March": 77},
+				{ "x":"March", "y": 77},
 				{ "April": 88},
 				{ "May": 99},
 				{ "June": 66},
