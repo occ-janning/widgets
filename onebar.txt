@@ -1,8 +1,9 @@
-{
+[{
     "March": 75,
     "April": 95,
     "May": 88,
     "June": 66,
     "July", 47,
     "August", 81
- }
+}
+]
