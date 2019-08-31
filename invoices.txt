@@ -1101,4 +1101,5 @@
 		 "/invoice.pdf",
 		 "/cart"
 	]
+	]
 }
