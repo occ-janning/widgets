@@ -1,5 +1,0 @@
-[
-        {"label": "Open", "color":"rgba(123, 239, 178, 1)", "value": 11},
-	{"label": "Closed", "color":"rgba(34, 167, 240, 1)", "value": 18},
-	{"label": "Critical", "color":"rgba(217, 30, 24, 1)", "value": 3}
-]
