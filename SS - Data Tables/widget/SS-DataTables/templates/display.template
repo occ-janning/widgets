@@ -1,0 +1,26 @@
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+<div id="SS-DataTables" class="container">
+  <div class="row">
+    <div class="col-sm-2 col-lg-2">
+      <div class="tablink" id="tabOne"><span data-bind="text: $data.tabOne "></span></div>
+    </div>
+    <div class="col-sm-2 col-lg-2">
+      <div class="tablink" id="tabTwo"><span data-bind="text: $data.tabTwo "></span></div>
+    </div>      
+    <div class="col-sm-2 col-lg-2">
+      <div class="tablink" id="tabThree"><span data-bind="text: $data.tabThree "></span></div>
+    </div>      
+    <div class="col-sm-2 col-lg-2">
+      <div class="tablink" id="tabFour"><span data-bind="text: $data.tabFour "></span></div>
+    </div>      
+    <div class="col-sm-2 col-lg-2">
+      <div class="tablink" id="tabFive"><span data-bind="text: $data.tabFive "></span></div>
+    </div>      
+    <div class="col-sm-2 col-lg-2">
+      <div class="tablink" id="tabSix"><span data-bind="text: $data.tabSix "></span></div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12 col-lg-12"><table id="listing" class="display"></table></div>
+  </div>
+</div>
